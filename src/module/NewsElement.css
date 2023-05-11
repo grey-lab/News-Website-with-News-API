@@ -1,0 +1,49 @@
+.newswebsite {
+    justify-content: center;
+    display: flex;
+    background-color: #000000;
+}
+
+.newselement {
+    padding: 25px;
+    border: 2px solid;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.newsimage {
+    justify-content: center;
+    width: 400px;
+    border-radius: 12px;
+
+}
+
+/* unvisited link */
+a:link {
+    color: whitesmoke;
+    text-decoration: none;
+
+    
+  }
+  
+  /* visited link */
+  a:visited {
+    color: cream wheat;
+    text-decoration: none;
+
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: maroon;
+    text-decoration: none;
+
+  }
+  
+  /* selected link */
+  a:active {
+    color: grey;
+    text-decoration: none;
+
+  }
